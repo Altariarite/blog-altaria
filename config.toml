@@ -79,7 +79,7 @@ disqusShortname = "yourdiscussshortname"
         
             [[languages.zh-cn.menu.main]]
                 name = "从这开始"
-                url = ""
+                url = "post/从这开始.md"
                 weight = 1
 
             [[languages.zh-cn.menu.main]]
