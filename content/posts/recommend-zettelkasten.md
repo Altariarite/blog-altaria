@@ -3,8 +3,9 @@ title: "推荐 Zettelkasten"
 date: 2020-05-12T23:05:29+01:00
 ---
 
-：Zettel - Index cards and Kasten - Slip Box.
-：Zettel+Kasten = Index cards and SlipBox.
+Zettel - Index cards and Kasten - Slip Box.
+
+Zettel+Kasten = Index cards and SlipBox.
 
 这种感觉真的很妙：一个我从几年前开始摸索的笔记方法最近刚刚成型，结果在搜索的过程中，发现互联网的另一个角落的一群人有一模一样而且更系统的想法，并且已经实施多年，总结了他们的经验。他们的想法则是起源于更久以前学者使用的方法——Boom！新世界的大门打开了。
 
