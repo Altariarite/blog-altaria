@@ -1,7 +1,6 @@
 ---
 title: "推荐 Zettelkasten"
 date: 2020-05-12T23:05:29+01:00
-draft: true
 ---
 
 ：Zettel - Index cards and Kasten - Slip Box.
