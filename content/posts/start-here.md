@@ -30,7 +30,7 @@ featured_image = "https://imgs.xkcd.com/comics/angular_momentum.jpg"
 如果你对 ZettelKasten 有兴趣，可以阅读 Luhmann 原文的[英文翻译](https://luhmann.surge.sh/communicating-with-slip-boxes)，一篇 Medium 上[很好的综述](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)。 我也写过一篇[介绍](../zettelkasten-intro)。
 
 ### 结语
-香农说，衡量信息量的一个指标是信息有没有给人带来惊喜。Luhmann 也说「对话的预设之一是谈话双方可以让对方感到惊讶」，而 ZettelKasten 的特性就是身外大脑，备用记忆，「an alter ego with whom we can constantly communicate」。也希望这篇博客能给亲爱的读者有些许惊喜。
+香农说，衡量信息量的一个指标是信息有没有给人惊喜。Luhmann 也说「对话的预设之一是谈话双方可以让对方感到惊讶」，而 ZettelKasten 的特性就是身外大脑，备用记忆，「an alter ego with whom we can constantly communicate」。也希望这个博客能给亲爱的读者带来些许惊喜。
 
 
 
