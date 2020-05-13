@@ -1,4 +1,4 @@
-baseurl = "www.dxdu.xyz"
+baseurl = "www.dxdu.xyz/"
 title = "大小多少"
 
 theme = "hugo-coder"
