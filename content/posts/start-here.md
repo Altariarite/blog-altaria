@@ -14,6 +14,8 @@ featured_image = "https://imgs.xkcd.com/comics/angular_momentum.jpg"
 
 网站名字来源是道德经的 63 章 ，「为无为，事无事，味无味。大小多少。」
 
+<!--more-->
+
 ### 为无为
 「为无为」刚好和编程 Haskell Monad 有一些有趣的对应，而且是小熊维尼的金句，我很喜欢:
 > Winnie the Pooh: But what I like doing best is nothing. How do you do nothing?
